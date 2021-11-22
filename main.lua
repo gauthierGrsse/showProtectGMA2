@@ -1,5 +1,5 @@
 -- ShowProtect
--- v0.1
+-- v1.0
 -- Mot de passe :
 local password = "012345"
 -- A noter que le mot de passe est en clair dans le plugin, mais il ne pourra pas être lu par quelqu'un voulant charger le show.
