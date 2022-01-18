@@ -63,7 +63,7 @@ local function start(cmdArg)
                 else
                     running = false
                     cmd('NewShow "Nouveau show ' .. gma.gettime() ..
-                            '" /timeconfig /globalsetting /localsetting /protocols /network /user')
+                            '" /timeconfig /globalsetting /localsetting /protocols /network /user /nc')
                 end
             end
         end
